@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">RecyclerViewYupDev</string>
+    <string-array name="film_names">
+        <item>"Baby Driver"</item>
+        <item>"Batman"</item>
+        <item>"Batman Forever"</item>
+        <item>"Beauty and the Beast"</item>
+        <item>"baby_driver"</item>
+        <item>"First Daughter"</item>
+        <item>"Ghost Busters"</item>
+        <item>"John Wick 2"</item>
+        <item>"Justice League Dark"</item>
+        <item>"La La Land"</item>
+        <item>"Michael Clayton"</item>
+        <item>"Outbreak"</item>
+        <item>"Power Rangers"</item>
+        <item>"Rough Night"</item>
+        <item>"The Interview"</item>
+        <item>"The Saint"</item>
+    </string-array>
+    <string-array name="directory_names">
+        <item>"Sam Mendes"</item>
+        <item>"Ryan Coogler"</item>
+        <item>"Pete Docter"</item>
+        <item>"Peyton Reed"</item>
+        <item>"Brian HelgeLand"</item>
+        <item>"Tom McCarthy"</item>
+        <item>"Todd Haynes"</item>
+        <item>"Sam HelgeLand"</item>
+        <item>"John Crowley"</item>
+        <item>"Peyton Coogler"</item>
+        <item>"Rob Letterman"</item>
+        <item>"Reed Docter"</item>
+        <item>"Ryan Mendes"</item>
+        <item>"Tom Crowley"</item>
+        <item>"Brian Haynes"</item>
+        <item>"Crowley Todd"</item>
+    </string-array>
+</resources>
